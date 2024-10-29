@@ -1,12 +1,10 @@
 # AIFFEL_quest_rs
-## MainQuest
-01 ~ 05
-## Exploration
-01 ~ 07
-## GoingDeepe
-01 ~ 18
+- 아이펠 과정에서 진행하는 퀘스트 및 프로젝트 수정 및 업로드
+- 언제나 화이팅!!
 
-## 레포지토리 구조
+---
+
+### 레포지토리 구조 :
 ```
 AIFFEL_quest_rs/
 ├── Exploration
