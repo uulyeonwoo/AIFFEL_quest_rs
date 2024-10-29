@@ -57,7 +57,7 @@ AIFFEL_quest_rs/
 │   └── Go 09
 │       ├── .ipynb
 │       └── README.md
-└── MainQuest
+└── Main Quest
     ├── Quest 01
     │   ├── .ipynb
     │   └── README.md
