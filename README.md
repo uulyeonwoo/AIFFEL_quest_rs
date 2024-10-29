@@ -1,77 +1,78 @@
-## AIFFEL_quest_rs
-### MainQuest
+# AIFFEL_quest_rs
+## MainQuest
 01 ~ 05
-### Exploration
+## Exploration
 01 ~ 07
-### GoingDeepe
+## GoingDeepe
 01 ~ 18
 
+## 레포지토리 구조
 ```
 AIFFEL_quest_rs/
 ├── Exploration
-│   ├── Ex01
+│   ├── Ex 01
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex02
+│   ├── Ex 02
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex03
+│   ├── Ex 03
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex04
+│   ├── Ex 04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex05
+│   ├── Ex 05
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex06
+│   ├── Ex 06
 │   │   ├── .ipynb
 │   │   └── README.md
-│   └── Ex07
+│   └── Ex 07
 │       ├── .ipynb
 │       └── README.md
 ├── GoingDeeper
-│   ├── Go01
+│   ├── Go 01
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go02
+│   ├── Go 02
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go03
+│   ├── Go 03
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go04
+│   ├── Go 04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go05
+│   ├── Go 05
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go06
+│   ├── Go 06
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go07
+│   ├── Go 07
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Go08
+│   ├── Go 08
 │   │   ├── .ipynb
 │   │   └── README.md
-│   └── Go09
+│   └── Go 09
 │       ├── .ipynb
 │       └── README.md
 └── MainQuest
-    ├── Quest01
+    ├── Quest 01
     │   ├── .ipynb
     │   └── README.md
-    ├── Quest02
+    ├── Quest 02
     │   ├── .ipynb
     │   └── README.md
-    ├── Quest03
+    ├── Quest 03
     │   ├── .ipynb
     │   └── README.md
-    ├── Quest04
+    ├── Quest 04
     │   ├── .ipynb
     │   └── README.md
-    └── Quest05
+    └── Quest 05
         ├── .ipynb
         └── README.md
 ```
