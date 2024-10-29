@@ -6,7 +6,7 @@
 ### GoingDeepe
 01 ~ 18
 
-.
+```
 AIFFEL_quest_rs/
 ├── Exploration
 │   ├── Ex01
@@ -74,3 +74,4 @@ AIFFEL_quest_rs/
     └── Quest05
         ├── .ipynb
         └── README.md
+```
